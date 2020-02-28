@@ -28,3 +28,6 @@ link github - https://github.com/VetalKlim/web-application-notepad
 Авторизация, база данных, hosting на Firebase )	Авторизация, база данных, hosting на Firebase )  
 link github - https://github.com/VetalKlim/web-application-spending-diary
 
+[Web-application-weather](https://weather-application-klim.web.app/) -  Web приложение "Weather-Application". Написан на фреймворке Angular 8. Хостинг - Firebase, API - погоды https://openweathermap.org/ 
+link github - https://github.com/VetalKlim/web-application-weather
+

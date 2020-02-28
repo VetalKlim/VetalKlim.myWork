@@ -18,8 +18,8 @@
 
 [Web-application-burger](https://vetalklim.github.io/web-application-burger/ "web-application-burger")   - web application( link github - https://github.com/VetalKlim/web-application-burger)
 
-[Web-application-spending-diary](https://vue-spending-diary.web.app)- Web приложение "Ежедневные расходы". Написан на фреймворке Vue.js. 
-Авторизация, база данных, hosting на Firebase )	Авторизация, база данных, hosting на Firebase ) 
+[Web-application-spending-diary](https://vue-spending-diary.web.app)- Web приложение "Ежедневные расходы". 
+Написан на фреймворке Vue.js. 
 
-( link github - https://github.com/VetalKlim/web-application-spending-diary)
+Авторизация, база данных, hosting на Firebase )	Авторизация, база данных, hosting на Firebase ) ( link github - https://github.com/VetalKlim/web-application-spending-diary)
 

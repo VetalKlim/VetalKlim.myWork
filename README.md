@@ -30,5 +30,5 @@ link github - https://github.com/VetalKlim/web-application-spending-diary
 [Web-application-weather](https://weather-application-klim.web.app/) -  Web приложение "Weather-Application". Написан на фреймворке Angular 8. Хостинг - Firebase, API - погоды https://openweathermap.org/ 
 link github - https://github.com/VetalKlim/web-application-weather
 
-[Form-of-payment](https://form-of-payment.firebaseapp.com/) -  Фреймворке Angular 9.
+[Form-of-payment](https://form-of-payment.firebaseapp.com/) - Angular 9.
 Хостинг - Firebase. link github -https://github.com/VetalKlim/form

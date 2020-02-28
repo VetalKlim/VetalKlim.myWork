@@ -14,9 +14,10 @@
 
 [Static-website-Stable](https://vetalklim.github.io/Static-web-page-Stable/ "Static-web-page-Stable")   - Static-website ( link github - https://github.com/VetalKlim/Static-web-page-Stable)
 
+[Web-application-Сounting](https://vetalklim.github.io/web-application-counting/ "web-application-counting")   - web application ( link github - https://github.com/VetalKlim/web-application-counting)
+
 [Web-application-burger](https://vetalklim.github.io/web-application-burger/ "web-application-burger")   - web application( link github - https://github.com/VetalKlim/web-application-burger)
 
-[Web-application-Сounting](https://vetalklim.github.io/web-application-counting/ "web-application-counting")   - web application ( link github - https://github.com/VetalKlim/web-application-counting)
 
 [Web-application-notepad](https://application-notepad.web.app/) - Web приложение "Application-notepad". Написан на фреймворке Angular 8, с использованием RxJS, NgRx. 
 Авторизация, база данных, hosting на Firebase )	Авторизация, база данных, hosting на Firebase )

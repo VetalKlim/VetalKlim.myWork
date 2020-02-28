@@ -16,4 +16,4 @@
 
 [Web-application-Сounting](https://vetalklim.github.io/web-application-counting/ "web-application-counting")   - Web application ( link github - https://github.com/VetalKlim/Static-web-page-Stable)
 
-[web-application-burger](https://vetalklim.github.io/web-application-burger/ "web-application-burger")   - web application( link github - https://github.com/VetalKlim/Static-web-page-Stable)
+[Web-application-burger](https://vetalklim.github.io/web-application-burger/ "web-application-burger")   - web application( link github - https://github.com/VetalKlim/Static-web-page-Stable)

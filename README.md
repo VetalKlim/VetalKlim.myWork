@@ -14,5 +14,5 @@
 
 [Static-web-page-Stable](https://vetalklim.github.io/Static-web-page-Stable/ "Static-web-page-Stable")   - Static-website ( link github - https://github.com/VetalKlim/Static-web-page-Stable)
 
-[Web application-Сounting](https://vetalklim.github.io/Web application-counting/ "Web application-counting")   - Web application ( link github - https://github.com/VetalKlim/Static-web-page-Stable)
+[Web application-Сounting](https://vetalklim.github.io/web-application-counting/ "web-application-counting")   - Web application ( link github - https://github.com/VetalKlim/Static-web-page-Stable)
 

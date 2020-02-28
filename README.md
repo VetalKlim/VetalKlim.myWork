@@ -18,16 +18,16 @@
 
 [Web-application-Burger](https://vetalklim.github.io/web-application-burger/ "web-application-burger")   - web application( link github - https://github.com/VetalKlim/web-application-burger)
 
-[Web-application-notepad](https://application-notepad.web.app/) - Web приложение "Application-notepad". Написан на фреймворке Angular 8, с использованием RxJS, NgRx. 
+[Web-application-Notepad](https://application-notepad.web.app/) - Web приложение "Application-notepad". Написан на фреймворке Angular 8, с использованием RxJS, NgRx. 
 Авторизация, база данных, hosting на Firebase )	Авторизация, база данных, hosting на Firebase )
 link github - https://github.com/VetalKlim/web-application-notepad
 
-[Web-application-spending-diary](https://vue-spending-diary.web.app)- Web приложение "Ежедневные расходы". 
+[Web-application-Spending-diary](https://vue-spending-diary.web.app)- Web приложение "Ежедневные расходы". 
 Написан на фреймворке Vue.js. 
 Авторизация, база данных, hosting на Firebase )	Авторизация, база данных, hosting на Firebase )  
 link github - https://github.com/VetalKlim/web-application-spending-diary
 
-[Web-application-weather](https://weather-application-klim.web.app/) -  Web приложение "Weather-Application". Написан на фреймворке Angular 8. Хостинг - Firebase, API - погоды https://openweathermap.org/ 
+[Web-application-Weather](https://weather-application-klim.web.app/) -  Web приложение "Weather-Application". Написан на фреймворке Angular 8. Хостинг - Firebase, API - погоды https://openweathermap.org/ 
 link github - https://github.com/VetalKlim/web-application-weather
 
 [Form-of-payment](https://form-of-payment.firebaseapp.com/) - Angular 9.

@@ -9,3 +9,6 @@
 [Landing-Page-4](https://vetalklim.github.io/landing-page-4/ "landing-page-4")   - Landing-Page ( link github - https://github.com/VetalKlim/landing-page-4)
 
 [Landing-Page-5](https://vetalklim.github.io/landing-page-5/ "landing-page-5")   - Landing-Page ( link github - https://github.com/VetalKlim/landing-page-5)
+
+[Static-web-page-Stable](https://vetalklim.github.io/Static-web-page-Stable/ "Static-web-page-Stable")   - Landing-Page ( link github - https://github.com/VetalKlim/Static-web-page-Stable)
+

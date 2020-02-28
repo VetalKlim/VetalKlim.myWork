@@ -12,7 +12,7 @@
 
 [Landing-Page-6](https://vetalklim.github.io/landing-page-6/ "landing-page-6")   - Landing-Page ( link github - https://github.com/VetalKlim/landing-page-6)
 
-[Static-web-page-Stable](https://vetalklim.github.io/Static-web-page-Stable/ "Static-web-page-Stable")   - Static-website ( link github - https://github.com/VetalKlim/Static-web-page-Stable)
+[Static-website-Stable](https://vetalklim.github.io/Static-web-page-Stable/ "Static-web-page-Stable")   - Static-website ( link github - https://github.com/VetalKlim/Static-web-page-Stable)
 
 [Web-application-Сounting](https://vetalklim.github.io/web-application-counting/ "web-application-counting")   - Web application ( link github - https://github.com/VetalKlim/Static-web-page-Stable)
 

@@ -22,7 +22,7 @@
 Авторизация, база данных, hosting на Firebase )	Авторизация, база данных, hosting на Firebase )
 link github - https://github.com/VetalKlim/web-application-notepad
 
-[Web-application-Spending-diary](https://vue-spending-diary.web.app)- Web приложение "Ежедневные расходы". 
+[Web-application-Spending-diary](https://vue-spending-diary.web.app)- Web приложение (CRM) "Ежедневные расходы". 
 Написан на фреймворке Vue.js. 
 Авторизация, база данных, hosting на Firebase )	Авторизация, база данных, hosting на Firebase )  
 link github - https://github.com/VetalKlim/web-application-spending-diary

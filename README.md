@@ -32,3 +32,6 @@ link github - https://github.com/VetalKlim/web-application-weather
 
 [Form-of-payment](https://form-of-payment.firebaseapp.com/) - Angular 9.
 Хостинг - Firebase. link github -https://github.com/VetalKlim/form
+
+[Form-of-payment](https://vetalklim.github.io/) - Angular 11.
+Форма регистрации

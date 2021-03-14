@@ -34,4 +34,4 @@ link github - https://github.com/VetalKlim/web-application-weather
 Хостинг - Firebase. link github -https://github.com/VetalKlim/form
 
 [Form-registration](https://vetalklim.github.io/) - Angular 11.
-Форма регистрациии link github - https://github.com/VetalKlim/Form-registration
+Форма регистрациии. Link github - https://github.com/VetalKlim/Form-registration
